@@ -1,1 +1,2 @@
-print("Hello, Swift!")
+var myName = "Alan"
+print("Hello, \(myName)!")
